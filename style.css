@@ -1,0 +1,9 @@
+@media screen {
+    
+}
+#welcome-section{
+    height: 100vh;
+}
+#navbar{
+    position: fixed;
+}
